@@ -1,6 +1,6 @@
 name: Glasslion
 favicon: null
-layout_spectrum: 0.4677419
+layout_spectrum: 0.45148
 typography_spectrum: 0.02142558
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#CFD7E9'
     - '#385465'
     - '#027778'
-  brandStrength: 0.8461729
+  brandStrength: 0.5
   lightness: 0.3189082
   saturation: 0.9531986
   rhythmicContrast: 0.3584229
