@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Glasslion]]></title>
         <description><![CDATA[Glasslion]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/glasslion/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 16 Nov 2015 20:16:00 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 16 Nov 2015 21:10:05 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/glasslion/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Hello World]]></title>
-            <description><![CDATA[<h1>Hello World</h1>]]></description>
-            <link>undefinedhello-world/index.html</link>
+            <description><![CDATA[<article><h1>Hello World</h1><p>Test post</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5faf6f5d-36b3-4f0d-a6b9-56da8bbf016f.jpg"></article>]]></description>
+            <link>https://thegrid.ai/glasslion/hello-world/index.html</link>
             <guid isPermaLink="false">53e24a1b-ef45-4b6b-bb5b-d73ee83c5ddd</guid>
-            <pubDate>Mon, 16 Nov 2015 20:15:50 GMT</pubDate>
+            <pubDate>Mon, 16 Nov 2015 21:09:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
