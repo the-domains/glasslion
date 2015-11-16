@@ -1,0 +1,14 @@
+layout_spectrum: 0.4677419
+color:
+  saturation: 0.9531986
+  lightness: 0.3189082
+  brandStrength: 0.8461729
+  brandColors:
+    - '#000000'
+    - '#5C88A3'
+    - '#CFD7E9'
+    - '#385465'
+    - '#027778'
+  rhythmicContrast: 0.3584229
+typography_spectrum: 0.02142558
+name: Glasslion
