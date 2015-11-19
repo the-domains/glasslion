@@ -4,8 +4,15 @@
         <description><![CDATA[Glasslion]]></description>
         <link>https://thegrid.ai/glasslion/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 17 Nov 2015 19:18:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Nov 2015 09:08:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/glasslion/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Dave Eggers Dead]]></title>
+            <description><![CDATA[<h1>Dave Eggers Dead</h1>]]></description>
+            <link>https://thegrid.ai/glasslion/dave-eggers-dead/index.html</link>
+            <guid isPermaLink="false">b62cdabe-a06f-488a-87c7-abde80691927</guid>
+            <pubDate>Thu, 19 Nov 2015 09:08:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Hello World]]></title>
             <description><![CDATA[<article><h1>Hello World</h1><p>Test post</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5faf6f5d-36b3-4f0d-a6b9-56da8bbf016f.jpg"></article>]]></description>
