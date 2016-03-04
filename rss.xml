@@ -4,18 +4,11 @@
         <description><![CDATA[Glasslion]]></description>
         <link>https://thegrid.ai/glasslion/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 19 Nov 2015 09:08:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2016 00:34:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/glasslion/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Dave Eggers Dead]]></title>
-            <description><![CDATA[<h1>Dave Eggers Dead</h1>]]></description>
-            <link>https://thegrid.ai/glasslion/dave-eggers-dead/index.html</link>
-            <guid isPermaLink="false">b62cdabe-a06f-488a-87c7-abde80691927</guid>
-            <pubDate>Thu, 19 Nov 2015 09:08:14 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[Hello World]]></title>
-            <description><![CDATA[<article><h1>Hello World</h1><p>Test post</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5faf6f5d-36b3-4f0d-a6b9-56da8bbf016f.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Hello World</h1><p>Test post</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/648d7d6e5297245af750605cbac4144378f71be9.jpg"></article>]]></description>
             <link>https://thegrid.ai/glasslion/hello-world/index.html</link>
             <guid isPermaLink="false">53e24a1b-ef45-4b6b-bb5b-d73ee83c5ddd</guid>
             <pubDate>Mon, 16 Nov 2015 21:09:53 GMT</pubDate>
