@@ -1,28 +1,40 @@
-name: Glasslion
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.338
-cta:
-  domain: null
-  bucket: null
-  version: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 1
+  brandStrength: 0.688172
+  lightness: 0.5913978
+  brandColors:
+    - '#FFFFFF'
+    - '#000000'
+    - '#6690C0'
+    - '#383430'
+    - '#7F6C51'
+  rhythmicContrast: 0.3584229
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: Glasslion
+cta:
+  bucket: null
+  version: null
+  domain: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#000000'
-    - '#5C88A3'
-    - '#CFD7E9'
-    - '#385465'
-    - '#027778'
-  brandStrength: 0.0625
-  lightness: 0.3189082
-  saturation: 1
-  rhythmicContrast: 0.3584229
-purpose: []
+typography_spectrum: 0.1146953
+layout_spectrum: 1
