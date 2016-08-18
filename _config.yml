@@ -21,20 +21,20 @@ color:
     - '#6690C0'
     - '#383430'
     - '#7F6C51'
-  rhythmicContrast: 0.3584229
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-favicon: null
-name: Glasslion
+  rhythmicContrast: 0.8620071
 cta:
   bucket: null
   version: null
   domain: null
+favicon: null
+name: Glasslion
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.1146953
-layout_spectrum: 1
+layout_spectrum: 0.59319
