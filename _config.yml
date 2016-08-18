@@ -26,15 +26,15 @@ cta:
   bucket: null
   version: null
   domain: null
-favicon: null
-name: Glasslion
 analytics:
   twitter: null
   google: null
   facebook: null
+favicon: null
+name: Glasslion
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.1146953
+typography_spectrum: 0.5340502
 layout_spectrum: 0.59319
